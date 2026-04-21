@@ -22,22 +22,6 @@ I am a Systems Engineer with a background in Information Security, currently pur
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛒 [VirtualStoreNET](https://github.com/rndymi/VirtualStoreNET)
-> **E-commerce Enterprise Solution**
-> Robust backend built with ASP.NET MVC and Entity Framework. Features include inventory management, admin workflows, and REST API support.
-
-#### 🌦️ [ClimaHoy](https://github.com/rndymi/ClimaHoy)
-> **Android Weather App**
-> Native Java application integrating external APIs, local persistence, and user-oriented mobile workflows.
-
-#### 🛸 [UFO-Battle](https://github.com/rndymi/UFO-Battle)
-> **Arcade Experience**
-> A vanilla JavaScript SPA focused on DOM interaction, gameplay logic, and dynamic rendering.
-
----
-
 ### 📊 GitHub Stats
 
 <table border="0">
