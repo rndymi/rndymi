@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there, I'm Randy Méndez 👋
 
-<!--
-**rndymi/rndymi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com/in/rndymi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rndymi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Software Engineer & Web Engineering Master's Student
+I am a Systems Engineer with a background in Information Security, currently pursuing a **Master's in Web Engineering at Universidad Politécnica de Madrid (UPM)**. My focus is on building robust, scalable solutions with clean architecture and a backend-heavy mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,php,symfony,nodejs,ts,angular,js,html,css,androidstudio,mysql,firebase,git,vscode,docker&perline=8" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+#### 🛒 [VirtualStoreNET](https://github.com/rndymi/VirtualStoreNET)
+> **E-commerce Enterprise Solution**
+> Robust backend built with ASP.NET MVC and Entity Framework. Features include inventory management, admin workflows, and REST API support.
+
+#### 🌦️ [ClimaHoy](https://github.com/rndymi/ClimaHoy)
+> **Android Weather App**
+> Native Java application integrating external APIs, local persistence, and user-oriented mobile workflows.
+
+#### 🛸 [UFO-Battle](https://github.com/rndymi/UFO-Battle)
+> **Arcade Experience**
+> A vanilla JavaScript SPA focused on DOM interaction, gameplay logic, and dynamic rendering.
+
+---
+
+### 📊 GitHub Stats
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Main Focus</h3>
+      <p>Building scalable backend architectures and secure web systems. Currently diving deep into Microservices and DevOps at UPM.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres,mysql,docker,git" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Activity</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rndymi&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndymi&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education
+* **M.S. in Web Engineering** — Universidad Politécnica de Madrid (En curso)
+* **Systems Engineering and Information Security**
