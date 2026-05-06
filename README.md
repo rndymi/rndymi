@@ -9,8 +9,8 @@
   </a>
 </p>
 
-### 🚀 Software Engineer & Web Engineering Master's Student
-I am a Systems Engineer with a background in Information Security, currently pursuing a **Master's in Web Engineering at Universidad Politécnica de Madrid (UPM)**. My focus is on building robust, scalable solutions with clean architecture and a backend-heavy mindset.
+### 🚀 Software Developer Junior & Web Engineering Master's Student
+I am a Systems Engineer with a background in Information Security, currently pursuing a **Master's in Web Engineering at Universidad Politécnica de Madrid (UPM)**. My focus is on building well-structured software solutions with a focus on backend development, APIs and clean code practices.
 
 ---
 
