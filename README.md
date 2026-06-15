@@ -1,4 +1,4 @@
-# Hi there, I'm Randy Méndez 👋
+# Randy Méndez 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/rndymi" target="_blank">
